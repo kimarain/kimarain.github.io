@@ -1,0 +1,20 @@
+nav h1태그 이용 , 메뉴 텍스트 nav옆에두기 , 링크 #, 15px
+header 배경화면
+         제목 ,텍스트 좌우 중앙정렬 , h2 태그 사용 , 60px, import 폰트사용 
+         내용 텍스트 좌우 중앙정렬 , 18px
+
+section : 3개 article , 가운데정렬 , 상하 margin 
+   article 너비, 높이 310px
+            틈o 글자크기 15px
+                    
+footer : 상하좌우 가운데 , 15px
+
+
+
+div 크기 
+ nav -          너비 100% 높이 70px
+ header        너비 100%, 높이 600px
+ container     너비 100% 높이 padding 조정
+ footer         너비 100% 높이 padding조정
+
+bootstrap 요소 3개 자유롭게 넣기

@@ -1,0 +1,105 @@
+@font-face { 
+	font-family: 'MapoGoldenPier';
+	src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoGoldenPierA.woff') 
+	format('woff'); font-weight: normal;
+	font-style: normal; 
+}
+
+.int-body { 
+	font-family : 'MapoGoldenPier'; 
+}
+
+.int-body .container{
+	width: 960px;
+}
+
+.int-nav{
+	padding: 3px;
+	height: 70px; width : 100% ;
+	background-color: #DAF7A6;
+}
+
+.int-nav-btn li{
+	text-align: center;
+}
+
+.int-nav-btn{
+	margin: 0;
+	}
+
+.int-nav-btn .container{
+	display: flex;
+
+}
+
+nav h1 {
+	float:left;
+}
+
+nav ul li { 
+	float: right;
+	list-style-type: none;
+	padding: 0 10px;
+}
+
+header {
+	background-image: url(https://previews.123rf.com/images/atomicchamp/atomicchamp1512/atomicchamp151200009/50324142-%EC%83%89%EA%B9%94%EC%9D%98-%ED%8C%8C%EC%8A%A4%ED%85%94%EA%B3%BC-%ED%83%9C%EC%96%91%EA%B3%BC-%EA%B5%AC%EB%A6%84-%EB%B0%B0%EA%B2%BD%EC%9E%85%EB%8B%88%EB%8B%A4-.jpg);
+	width: 100%;
+	height: 600px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+header div { 
+	text-align: center; 
+}
+
+header h2 { 
+	padding-top: 100px;
+	font-size :60px; 
+}
+
+header p { 
+	padding-top:100px;
+}
+
+.int-body section .container{
+	width : 100%;
+	text-align: center;
+	left: 50%;
+	/*margin-left: -480;*/
+
+}
+
+
+
+.int-body article{
+	display: inline-block;
+	margin-right: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	vertical-align: top;
+}
+
+.int-body article img {
+	height: 310px;
+	width : 310px;
+}
+
+.int-body article p { 
+	font-size:15px;
+	width: 300px;
+	height: 300px;
+}
+
+.int-body footer {
+	text-align : center;
+	margin-top: 10px;
+	margin-bottom :10px;
+	background-color: #CCEBF2 ;
+	width : 100%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 15px 
+
+}
